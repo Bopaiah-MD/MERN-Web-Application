@@ -1,0 +1,19 @@
+{
+  "name": "mern-web-app",
+  "version": "1.0.0",
+  "description": "Mern App ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
